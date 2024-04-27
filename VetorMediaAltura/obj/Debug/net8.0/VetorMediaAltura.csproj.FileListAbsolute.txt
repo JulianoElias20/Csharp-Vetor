@@ -1,0 +1,14 @@
+C:\Users\julia\source\repos\VetorMediaAltura\VetorMediaAltura\bin\Debug\net8.0\VetorMediaAltura.exe
+C:\Users\julia\source\repos\VetorMediaAltura\VetorMediaAltura\bin\Debug\net8.0\VetorMediaAltura.deps.json
+C:\Users\julia\source\repos\VetorMediaAltura\VetorMediaAltura\bin\Debug\net8.0\VetorMediaAltura.runtimeconfig.json
+C:\Users\julia\source\repos\VetorMediaAltura\VetorMediaAltura\bin\Debug\net8.0\VetorMediaAltura.dll
+C:\Users\julia\source\repos\VetorMediaAltura\VetorMediaAltura\bin\Debug\net8.0\VetorMediaAltura.pdb
+C:\Users\julia\source\repos\VetorMediaAltura\VetorMediaAltura\obj\Debug\net8.0\VetorMediaAltura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\VetorMediaAltura\VetorMediaAltura\obj\Debug\net8.0\VetorMediaAltura.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\VetorMediaAltura\VetorMediaAltura\obj\Debug\net8.0\VetorMediaAltura.AssemblyInfo.cs
+C:\Users\julia\source\repos\VetorMediaAltura\VetorMediaAltura\obj\Debug\net8.0\VetorMediaAltura.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\VetorMediaAltura\VetorMediaAltura\obj\Debug\net8.0\VetorMediaAltura.dll
+C:\Users\julia\source\repos\VetorMediaAltura\VetorMediaAltura\obj\Debug\net8.0\refint\VetorMediaAltura.dll
+C:\Users\julia\source\repos\VetorMediaAltura\VetorMediaAltura\obj\Debug\net8.0\VetorMediaAltura.pdb
+C:\Users\julia\source\repos\VetorMediaAltura\VetorMediaAltura\obj\Debug\net8.0\VetorMediaAltura.genruntimeconfig.cache
+C:\Users\julia\source\repos\VetorMediaAltura\VetorMediaAltura\obj\Debug\net8.0\ref\VetorMediaAltura.dll
